@@ -183,3 +183,4 @@ if __name__ == "__main__":
     main()
 
 # to run: python -m src.fetch_html --seed data/seed_urls.txt --out data/raw --meta data/raw/metadata.csv --delay 2
+# to run 2: python -m src.fetch_html --seed data/seed_urls_pages.txt --out data/raw/pages --meta data/raw/pages/metadata.csv --delay 2

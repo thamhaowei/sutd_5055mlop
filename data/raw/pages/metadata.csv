@@ -1,0 +1,5 @@
+url,raw_path,status,retrieved_at,bytes,error
+https://www.sutd.edu.sg/education/undergraduate,data/raw/pages/education_undergraduate.html,200,2026-02-24T16:53:09.057783+00:00,496164,
+https://www.sutd.edu.sg/education/undergraduate/freshmore-subjects/,data/raw/pages/education_undergraduate_freshmore-subjects.html,200,2026-02-24T16:53:11.186665+00:00,348188,
+https://www.sutd.edu.sg/campus-life/housing/freshmore/#tabs,data/raw/pages/campus-life_housing_freshmore.html,200,2026-02-24T16:53:13.989076+00:00,348691,
+https://www.sutd.edu.sg/campus-life/housing/freshmore/rooms-and-amenities/#tabs,data/raw/pages/campus-life_housing_freshmore_rooms-and-amenities.html,200,2026-02-24T16:53:16.089208+00:00,352619,
