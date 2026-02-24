@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 
 import requests
 
-DEFAULT_USER_AGENT = "SUTD-Student-Project-MLops/1.0 (educational use)"
+DEFAULT_USER_AGENT = "SUTD-Student-Project-MLops"
 
 @dataclass
 class FetchResult:
@@ -181,3 +181,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# to run: python -m src.fetch_html --seed data/seed_urls.txt --out data/raw --meta data/raw/metadata.csv --delay 2
