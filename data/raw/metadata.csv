@@ -1,0 +1,10 @@
+url,raw_path,status,retrieved_at,bytes,error
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=1#faq-listing,data/raw/admissions_undergraduate_faq_paged_1.html,200,2026-02-24T09:40:13.151112+00:00,421438,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=2#faq-listing,data/raw/admissions_undergraduate_faq_paged_2.html,200,2026-02-24T09:40:16.457132+00:00,420608,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=3#faq-listing,data/raw/admissions_undergraduate_faq_paged_3.html,200,2026-02-24T09:40:18.804690+00:00,419313,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=4#faq-listing,data/raw/admissions_undergraduate_faq_paged_4.html,200,2026-02-24T09:40:20.882304+00:00,421334,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=5#faq-listing,data/raw/admissions_undergraduate_faq_paged_5.html,200,2026-02-24T09:40:23.140443+00:00,420314,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=6#faq-listing,data/raw/admissions_undergraduate_faq_paged_6.html,200,2026-02-24T09:40:25.217258+00:00,421845,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=7#faq-listing,data/raw/admissions_undergraduate_faq_paged_7.html,200,2026-02-24T09:40:27.321396+00:00,420203,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=8#faq-listing,data/raw/admissions_undergraduate_faq_paged_8.html,200,2026-02-24T09:40:29.529813+00:00,421473,
+https://www.sutd.edu.sg/admissions/undergraduate/faq/?paged=9#faq-listing,data/raw/admissions_undergraduate_faq_paged_9.html,200,2026-02-24T09:40:31.697174+00:00,399313,
