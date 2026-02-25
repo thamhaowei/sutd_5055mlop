@@ -1,0 +1,6 @@
+doc_id,domain,path,source_url,retrieved_at
+adm_faq_no_links,admissions,data/processed/faq_no_links.txt,https://www.sutd.edu.sg/admissions/undergraduate/faq/ (multiple pages),2026-02-24 09:40:31.697174+00:00
+education_undergraduate,academics,data/processed/pages/education_undergraduate_content.txt,https://www.sutd.edu.sg/education/undergraduate,2026-02-24T16:53:09.057783+00:00
+education_undergraduate_freshmore-subjects,academics,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,https://www.sutd.edu.sg/education/undergraduate/freshmore-subjects/,2026-02-24T16:53:11.186665+00:00
+campus-life_housing_freshmore,housing,data/processed/pages/campus-life_housing_freshmore_content.txt,https://www.sutd.edu.sg/campus-life/housing/freshmore/#tabs,2026-02-24T16:53:13.989076+00:00
+campus-life_housing_freshmore_rooms-and-amenities,housing,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,https://www.sutd.edu.sg/campus-life/housing/freshmore/rooms-and-amenities/#tabs,2026-02-24T16:53:16.089208+00:00

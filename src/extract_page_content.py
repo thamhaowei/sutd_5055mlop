@@ -29,34 +29,11 @@ def clean(text: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
+def best_text_container(soup: BeautifulSoup):
+    # all the info from main body is in <main class>
+    main = soup.find("main")
+    return main if main else (soup.body or soup)
 
-def best_text_container(soup: BeautifulSoup) -> BeautifulSoup:
-    """
-    Heuristic: after removing obvious boilerplate, pick the element
-    with the most text among common content containers.
-    """
-    candidates = []
-
-    # Common main containers on many CMS sites
-    selectors = [
-        "main",
-        "article",
-        "div[id*='content']",
-        "div[class*='content']",
-        "section",
-    ]
-
-    for sel in selectors:
-        for el in soup.select(sel):
-            txt = el.get_text(" ", strip=True)
-            if txt:
-                candidates.append((len(txt), el))
-
-    if not candidates:
-        return soup.body or soup
-
-    candidates.sort(key=lambda x: x[0], reverse=True)
-    return candidates[0][1]
 
 
 def extract_main_text(html: str) -> str:
