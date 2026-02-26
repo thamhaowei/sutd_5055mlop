@@ -1,0 +1,139 @@
+﻿id,question,ground_truth,prediction,gt_source,retrieved_1,retrieved_2,token_recall,token_f1,rougeL,bucket
+academics_2_1,What subjects are common to all Freshmore students?,"Common subjects include Science, Mathematics and Technology (SMT), Humanities, Arts and Social Sciences (HASS), and design courses.","The common subjects for all Freshmore students at SUTD are:
+
+**Term 1:**
+- Innovating with Design & AI 1
+- Introduction to Programming
+- Calculus
+- Sustainability: Science and System Thinking
+- Introduction to Social Sciences / Global Humanities
+
+**Term 2:**
+- Innovating with Design & AI 2
+- Algorithmic Thinking & Object-Oriented Programming
+- Linear Algebra & Multivariable Calculus (E/S)
+- Physics Principles and Applications 1
+- Introduction to Social Sciences / Global Humanities
+
+**Term 3:**
+- Innovating with Design & AI 3
+- Introduction to Machine Learning
+- Introduction to Probability and Statistics (E/S) 
+
+These subjects build a strong foundation for further studies.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.588,0.196,0.171,answer_failure
+academics_2_2,How are grades structured in Term 1 of the Freshmore curriculum?,"All subjects in Term 1 are grade-free (Pass/No record), allowing students to adjust to academic life without worrying about grades.","In Term 1 of the Freshmore curriculum, all subjects are grade-free, meaning students receive either a “Pass” or “No Record” grade. This structure allows students to adjust to academic life at SUTD without the pressure of traditional grading.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.75,0.517,0.59,answer_correct
+academics_2_4,What is the purpose of the computational thinking courses?,These courses aim to strengthen digital literacy and illustrate how AI concepts can be integrated across various subjects.,"The purpose of the computational thinking courses at SUTD is to strengthen students’ digital literacy in preparation for a data-driven world. These courses illustrate how AI concepts can be integrated across the curriculum, enhancing students' understanding of programming, algorithmic thinking, and machine learning. This foundational knowledge equips students to effectively harness AI techniques in their design processes and problem-solving approaches.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.833,0.385,0.325,answer_correct
+academics_2_5,What is emphasized in the Introduction to Human-Centred Design course?,"The course emphasizes empathy, ethics, and contextual understanding in designing products, systems, and services.","The Introduction to Human-Centred Design course emphasizes principles and practices of human-centred design, focusing on empathy, ethics, and contextual understanding in designing products, systems, and services. Students learn ethnographic methods, user-insight tools, and iterative prototyping, while also considering broader human, societal, and ecological impacts.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,1.0,0.483,0.459,answer_correct
+academics_2_6,What are the two versions of the Math course offered?,"The two versions are (E) focused on engineering and technology, and (S) focused on economics and social sciences.","The two versions of the Math course offered are:
+
+1. **(E) version**: Emphasizes engineering and technology, required for students pursuing a Bachelor of Engineering (BEng) degree.
+2. **(S) version**: Focuses on economics and social sciences.
+
+Students aiming for a BEng degree should choose electives within specific subjects, including the (E) version of the Math course.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.778,0.384,0.411,answer_correct
+academics_2_7,What is the significance of the interdisciplinary design projects?,"These projects enhance design thinking, critical inquiry, problem-solving, communication, and collaboration skills relevant to the industry.","The interdisciplinary design projects at SUTD are significant as they integrate design thinking, critical inquiry, problem-solving, communication, and collaboration skills, which are highly relevant in the industry. These projects allow students to apply theoretical knowledge in practical settings, enhancing their understanding of complex real-world challenges. Additionally, they are reflected in the academic transcript, showcasing students' competencies in a holistic manner. This approach fosters a comprehensive education that prepares students for diverse career paths.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.938,0.337,0.304,answer_correct
+academics_2_8,What subjects are included in Term 1 of the Freshmore curriculum?,"Term 1 includes Innovating with Design & AI 1, Introduction to Programming, Calculus, Sustainability: Science and System Thinking, and Introduction to Social Sciences or Global Humanities.","In Term 1 of the Freshmore curriculum, the subjects included are:
+
+1. Innovating with Design & AI 1
+2. Introduction to Programming
+3. Calculus
+4. Sustainability: Science and System Thinking
+5. Introduction to Social Sciences / Global Humanities
+
+These courses are designed to build a strong foundation in Design·AI and other essential skills.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.92,0.605,0.597,answer_correct
+academics_2_9,What is the grading structure for subjects in Term 1?,"All subjects in Term 1 are grade-free, using a Pass/No record system.","In Term 1, all subjects are graded on a grade-free basis, meaning they are assessed as Pass/No record. This allows students to adjust to academic life at SUTD without the pressure of grades.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.833,0.444,0.367,answer_correct
+academics_2_10,What computational thinking courses are offered in the Freshmore curriculum?,"The computational thinking courses include Introduction to Programming in Term 1, Algorithmic Thinking & Object-Oriented Programming in Term 2, and Introduction to Machine Learning in Term 3.","In the Freshmore curriculum, the following computational thinking courses are offered:
+
+1. **Introduction to Programming** (Term 1)
+2. **Algorithmic Thinking & Object-Oriented Programming** (Term 2)
+3. **Introduction to Machine Learning** (Term 3)
+
+These courses are designed to strengthen students’ digital literacy and illustrate how AI concepts can be integrated across the curriculum.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.885,0.597,0.557,answer_correct
+academics_2_11,What is the focus of the Design Computation course?,"The Design Computation course focuses on building computational and representational design capabilities, introducing foundational programming and generative AI concepts.","The Design Computation course, offered as an elective in Term 3, is designed to build students’ computational and representational design capabilities. It introduces foundational programming and generative AI concepts, demonstrating how computational thinking, AI-driven design exploration, and digital fabrication can be integrated into creative workflows across various design disciplines.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.789,0.441,0.493,answer_correct
+academics_2_12,What are the two versions of the Math course offered in Terms 2 and 3?,"The two versions are the (E) version, emphasizing engineering and technology, and the (S) version, focusing on economics and social sciences.","In Terms 2 and 3, SUTD offers two versions of the Mathematics course: 
+
+1. The (E) version, which emphasizes engineering and technology.
+2. The (S) version, which focuses on economics and social sciences.
+
+The (E) version is required for students pursuing a Bachelor of Engineering (BEng) degree.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.857,0.529,0.529,answer_correct
+academics_2_13,What is the significance of hands-on projects in the Freshmore curriculum?,"Hands-on projects transform theory into action, enhancing skills in design thinking, critical inquiry, problem-solving, communication, and collaboration.","Hands-on projects in the Freshmore curriculum are significant as they transform theoretical knowledge into practical application. These projects enhance students' design thinking, critical inquiry, problem-solving, communication, and collaboration skills, which are highly relevant in the industry. By integrating Design·AI and computational thinking courses with practical projects, students gain a comprehensive understanding of the human, natural, and technological worlds, preparing them to tackle complex real-world challenges effectively.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,0.824,0.337,0.337,answer_correct
+academics_2_14,What is emphasized in the Global Humanities course?,"The Global Humanities course emphasizes critical thinking through classic works of literature and philosophy, exploring humanity's dreams and societal challenges.","In the Global Humanities course, students engage with classic works of world literature and philosophy, exploring themes from utopias to dystopias. The course emphasizes critical thinking about shared humanity and the power of imagination, prompting students to reflect on their own fears, desires, and futures. It aims to cultivate an understanding of different cultures and societies while encouraging students to question the world they inhabit.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.75,0.353,0.302,answer_correct
+academics_2_15,What subjects are included in Term 2 of the Freshmore curriculum?,"Term 2 includes Innovating with Design & AI 2, Algorithmic Thinking & Object-Oriented Programming, Linear Algebra & Multivariable Calculus (E/S), and Physics Principles and Applications 1.","In Term 2 of the Freshmore curriculum, the subjects included are:
+
+1. Innovating with Design & AI 2
+2. Algorithmic Thinking & Object-Oriented Programming
+3. Linear Algebra & Multivariable Calculus (E/S)
+4. Physics Principles and Applications 1
+5. Introduction to Social Sciences / Global Humanities
+
+These courses are designed to build a strong foundation in both technical and human-centred skills.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.957,0.557,0.571,answer_correct
+academics_2_16,What foundational subjects are included in the Freshmore curriculum?,"The foundational subjects include Science, Mathematics and Technology (SMT), Humanities, Arts and Social Sciences (HASS), and design.","The foundational subjects included in the Freshmore curriculum at SUTD are:
+
+1. Science, Mathematics, and Technology (SMT)
+2. Humanities, Arts, and Social Sciences (HASS)
+3. Design
+
+These subjects provide a broad and rigorous education, equipping students with essential skills for their chosen majors and future careers.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.941,0.508,0.508,answer_correct
+academics_2_17,What is the focus of the Introduction to Programming course?,The Introduction to Programming course aims to strengthen students' digital literacy and prepare them for a data-driven world.,"The Introduction to Programming course, offered in Term 1, is designed to strengthen students’ digital literacy in preparation for the data-driven world. It illustrates how AI concepts can be integrated across various courses, providing foundational skills essential for further studies in programming and computational thinking.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.778,0.444,0.462,answer_correct
+academics_2_18,What are the two versions of the Math course offered in Term 2?,"The two versions are (E) focused on engineering and technology, and (S) focused on economics and social sciences.","In Term 2, SUTD offers two versions of the Mathematics course: 
+
+1. The (E) version, which emphasizes engineering and technology.
+2. The (S) version, which focuses on economics and social sciences.
+
+The (E) version is required for students pursuing a Bachelor of Engineering (BEng) degree.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.722,0.413,0.413,answer_correct
+academics_2_19,What is the focus of the Introduction to Human-Centred Design course?,"The course focuses on principles of human-centred design, emphasizing empathy, ethics, and contextual understanding.","The Introduction to Human-Centred Design course emphasizes the principles and practices of human-centred design, focusing on empathy, ethics, and contextual understanding in designing products, systems, and services. Students learn ethnographic methods, user-insight tools, and iterative prototyping, while considering broader human, societal, and ecological impacts.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.857,0.414,0.387,answer_correct
+academics_2_21,What are the core subjects in Term 1 of the Freshmore curriculum?,"Core subjects in Term 1 include Innovating with Design & AI 1, Introduction to Programming, Calculus, Sustainability: Science and System Thinking, and Introduction to Social Sciences or Global Humanities.","In Term 1 of the Freshmore curriculum, the core subjects are:
+
+1. Innovating with Design & AI 1
+2. Introduction to Programming
+3. Calculus
+4. Sustainability: Science and System Thinking
+5. Introduction to Social Sciences / Global Humanities
+
+These subjects provide a foundational education in Design·AI and related disciplines.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.929,0.693,0.605,answer_correct
+academics_2_22,What elective courses can students choose in Term 3?,"Students can choose from eight electives in Term 3, including Design Computation, Introduction to Healthcare Technology, and Introduction to Human-Centred Design.","In Term 3, students can choose any 2 of the following 8 elective courses:
+
+1. Design Computation
+2. Designing Sustainable Energy Solutions
+3. Freshmore Design Studio
+4. Introduction to Discrete Mathematics
+5. Introduction to Healthcare Technology
+6. Introduction to Human-Centred Design
+7. Physics Principles and Applications 2
+8. Qualitative & Quantitative Research Methods. 
+
+This selection allows students to pursue their own educational interests.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.81,0.41,0.353,answer_correct
+academics_2_23,What are the two versions of the Math course offered in Term 3?,The two versions of the Math course in Term 3 are Introduction to Probability and Statistics (E) focused on engineering and (S) focused on social sciences.,"In Term 3, SUTD offers two versions of the Mathematics course: 
+
+1. The (E) version, which emphasizes engineering and technology.
+2. The (S) version, which focuses on economics and social sciences.
+
+The (E) version is required for students pursuing a Bachelor of Engineering (BEng) degree.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/faq_no_links.txt,0.654,0.479,0.366,answer_correct
+academics_2_24,What are the core subjects in Term 2 of the Freshmore curriculum?,"Core subjects in Term 2 include Innovating with Design & AI 2, Algorithmic Thinking & Object-Oriented Programming, Linear Algebra & Multivariable Calculus, and Physics Principles and Applications 1.","In Term 2 of the Freshmore curriculum, the core subjects are:
+
+1. Innovating with Design & AI 2
+2. Algorithmic Thinking & Object-Oriented Programming
+3. Linear Algebra & Multivariable Calculus (E/S)
+4. Physics Principles and Applications 1
+5. Introduction to Social Sciences / Global Humanities
+
+These subjects are designed to build a strong foundation in Design·AI and related disciplines.",data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_freshmore-subjects_content.txt,data/processed/pages/education_undergraduate_content.txt,0.96,0.6,0.524,answer_correct
+housing_4_0,What type of room are Freshmore students assigned to?,Freshmore students are paired in double rooms according to their assigned class/cluster.,"Freshmore students are assigned to double rooms. They are paired according to the class/cluster they are assigned to, and a lifestyle questionnaire is completed as part of the housing acceptance process to match them with roommates of similar lifestyle habits as far as possible.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_content.txt,0.833,0.357,0.31,answer_correct
+housing_4_1,How are roommates matched in the hostel?,Roommates are matched based on a lifestyle questionnaire completed during the housing acceptance process.,"Freshmore students are paired in double rooms according to the class/cluster they are assigned to. As part of the housing acceptance process, students complete a lifestyle questionnaire, which helps match them with roommates who have similar lifestyle habits as far as possible.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.643,0.321,0.175,answer_correct
+housing_4_2,What security measures are in place at the hostel?,"The hostel has a 24/7 on-site security team, regular patrols, CCTV monitoring, and controlled access to facilities.","SUTD has implemented several security measures to ensure the safety and welfare of hostel residents. These include a 24/7 on-site security team, regular security patrols, monitoring of CCTVs, and controlled access to blocks, common facilities, and bathrooms. Residents are regularly reminded about personal safety and security. Additionally, live-in staff and hostel student leaders play a vital role in fostering a culture of care and respect within the community, assisting residents with their concerns.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.941,0.356,0.358,answer_correct
+housing_4_3,What amenities are available in the communal kitchen?,"The communal kitchen is equipped with induction cookers, a multifunction oven, and vending machines.","The communal kitchen on level 1 is equipped with induction cookers, a multifunction oven, and vending machines.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,1.0,0.903,0.903,answer_correct
+housing_4_4,Where can students do laundry in the hostel?,"Students can use the laundry room on level 1, which has washing machines and dryers on a pay-per-use basis.","Students can do laundry in the laundry room located on level 1 of the hostel, which is equipped with washing machines and dryers on a pay-per-use basis. Additionally, there is a laundry drying area on level 12.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.895,0.607,0.633,answer_correct
+housing_4_5,What recreational facilities are available in the hostel?,"The hostel includes recreational rooms, study and discussion rooms, and a lounge.","The hostel offers various recreational facilities, including:
+
+- Recreational rooms
+- Study and discussion rooms
+- A hostel lounge (level 1, block 57)
+- A viewing deck (level 12, blocks 55 and 59)
+
+These amenities are designed to enhance the living experience for residents.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.917,0.423,0.423,answer_correct
+housing_4_6,Is there internet access in the hostel?,"Yes, the hostel provides LAN points and WIFI for residents.","Yes, there is internet access in the hostel. Residents can connect to LAN points and WIFI throughout the hostel facilities.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.8,0.533,0.467,answer_correct
+housing_4_7,What is the purpose of live-in staff and student leaders?,"They help foster a culture of care and respect, and address residents' concerns with the University.","Live-in staff and hostel student leaders play a crucial role in the education, outreach, and engagement of student residents. They help foster a culture of care and respect within the hostel community by addressing residents' concerns and bringing them to the attention of various university teams. Their presence ensures that residents can easily reach out for assistance when needed, contributing to the overall safety and welfare of hostel residents.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.875,0.329,0.326,answer_correct
+housing_4_8,What facilities are available on each floor of the hostel?,"Each floor has communal shower and bathroom facilities, and a mini pantry with a microwave, hot/cold water dispenser, and sink.","Each floor of the SUTD hostel is equipped with communal shower and bathroom facilities, a mini pantry featuring a microwave, hot/cold water dispenser, and sink. Additionally, there are laundry rooms with washing machines and dryers on the level 1, along with a laundry drying area on level 12. Each floor also has access to LAN points and Wi-Fi.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,1.0,0.513,0.444,answer_correct
+housing_4_9,What is included in the communal kitchen on level 1?,"The communal kitchen on level 1 is equipped with induction cookers, a multifunction oven, and vending machines.","The communal kitchen on level 1 is equipped with induction cookers, a multifunction oven, and vending machines.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,1.0,1.0,1.0,answer_correct
+housing_4_10,What amenities are available in the pantry on level 9?,"The pantry on level 9 has a 2-burner induction cooker, microwave, hot water dispenser, and vending machines.","The pantry on level 9 is equipped with a 2-burner induction cooker, microwave, hot water dispenser, and vending machines.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.941,0.889,0.895,answer_correct
+housing_4_11,Where is the laundry room located?,The laundry room is located on level 1.,"The laundry room is located on level 1 of the hostel, equipped with washing machines and dryers on a pay-per-use basis.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_content.txt,1.0,0.552,0.516,answer_correct
+housing_4_12,What role do live-in staff and student leaders play?,"Live-in staff and student leaders foster a culture of care and respect, addressing residents' concerns and providing assistance.","Live-in staff and hostel student leaders play a crucial role in the education, outreach, and engagement of student residents. They help foster a culture of care and respect within the hostel community by addressing residents' concerns and bringing them to various university teams. Their presence ensures that residents can easily reach out for assistance when needed, contributing to the overall safety and welfare of hostel residents.",data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/pages/campus-life_housing_freshmore_rooms-and-amenities_content.txt,data/processed/faq_no_links.txt,0.944,0.405,0.419,answer_correct

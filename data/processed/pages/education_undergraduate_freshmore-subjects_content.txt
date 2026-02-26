@@ -1,0 +1,99 @@
+Design·AI Education
+Undergraduate studies at SUTD
+Freshmore subjects
+Undergraduate studies at SUTD
+Freshmore curriculum
+Integrate Design with AI from day one
+Deepen your understanding of the human, natural, and technological worlds, while building transdisciplinary fluency in Design·AI to tackle complex real-world challenges.
+As the first Design·AI university for the new world, we have revamped our curriculum to provide all first-year students with comprehensive training in Design·AI skills.
+Starting from the AY2026 cohort onwards, AI will be systematically woven into all three terms of the Freshmore (first year) curriculum. Students will learn to integrate AI techniques into each stage of the design process, including user research, site and context analysis, synthesis, ideation, concept development as well as prototyping.
+Here we summarise the key aspects of this reimagined Freshmore curriculum:
+Foundation
+The first three terms are common to all students and build the foundation in
+Science, Mathematics and Technology (SMT),
+Humanities, Arts and Social Sciences (HASS)
+and design. This approach provides a broad and rigorous education, offering you a strong foundation to select and excel in your chosen major, while also building foundational literacy for future careers and endeavours.
+Students will experience Design·AI and computational thinking courses in every term that hone your Design·AI skills and competencies. You will bring your learning into life through hands-on projects in every course, where theory is transformed into action. The incorporation of design projects within and across subjects further imbues design thinking, critical inquiry, problem-solving, communication and collaboration skillsets, which are highly relevant and useful in the industry. These interdisciplinary 2D design projects will be reflected in the academic transcript.
+Focus on learning more than scoring
+All subjects in Term 1 are grade-free (Pass/No record), and students can further choose up to four more subjects from Terms 2 and 3 to be grade-free. With this arrangement, you can better adjust to academic life at SUTD, explore new areas that you are interested in, or embrace learning subjects that you have no prior background in without worrying about grades.
+Flexibility to pursue interests with Freshmore electives and options
+Students will choose any 2 of the following 8 elective courses in Term 3. This provides you with more options to pursue your own educational interests.
+Design Computation
+Designing Sustainable Energy Solutions
+Freshmore Design Studio
+Introduction to Discrete Mathematics
+Introduction to Healthcare Technology
+Introduction to Human-Centred Design
+Physics Principles and Applications 2
+Qualitative & Quantitative Research Methods
+We also provide 2 versions of the Math course in Terms 2 and 3.
+An
+(E) version
+has more emphasis on engineering and technology;
+An
+(S) version
+is more focused on economics and social sciences.
+The (E) version is required for students studying towards a Bachelor of Engineering (BEng) degree (ie CSD, EPD and ESD).
+Furthermore, students aiming at a BEng degree should choose electives within these four subjects: Principles and Applications 2, Introduction to Healthcare and Technology, Designing Sustainable Energy Solutions and Introduction to Discrete Mathematics.
+Computational thinking courses
+Introduction to Programming (Term 1), Algorithmic Thinking & Object-Oriented Programming (Term 2) and Introduction to Machine Learning (Term 3) are designed to strengthen students’ digital literacy in preparation for the data-driven world, while also illustrating how AI concepts can be integrated across these courses.
+Design courses
+Design Computation and Freshmore Design Studio (Term 3 electives) are complementary courses designed to build students’ computational and representational design capabilities. Together, they introduce foundational programming and generative AI concepts, while demonstrating how computational thinking, AI-driven design exploration, and digital fabrication can be integrated into creative workflows across design disciplines.
+Introduction to Human-Centred Design (Term 3 elective) introduces the principles and practices of human-centred design, emphasising empathy, ethics, and contextual understanding in designing products, systems, and services. Students learn ethnographic methods, user-insight tools, and iterative prototyping, while also considering broader human, societal, and ecological impacts.
+Mathematics and Physics
+The following courses were developed with increased correlation between Mathematics and Physics in mind, with enhanced linkages and translation to the majors.
+Term 1
+Calculus
+Term 2
+Linear Algebra & Multivariable Calculus
+Physics Principles and Applications 1
+Term 3
+Introduction to Discrete Mathematics
+Introduction to Probability and Statistics (E/S)
+Physics Principles and Applications 2
+Chemistry and Biology
+Sustainability: Science and System Thinking (Term 1), Designing Sustainable Energy Solutions, and Introduction to Healthcare Technology (Term 3 elective) have been designed based on current themes that give an exciting and relevant context to learn empowering science topics.
+Human-centred courses
+Literature opens a gateway into humanity’s dreams, letting us encounter other cultures, societies, and radically different ways of being human while prompting us to reflect on our own fears, desires, and futures. In Global Humanities: Literature, Philosophy, and Ethics, students read classic works of world literature and philosophy – from utopias to dystopias – that imagine new worlds and challenge us to think critically about our shared humanity and the power of imagination.
+Social Science: Understanding Behaviour, Culture & Society is an introduction to the social sciences that provides students with the conceptual tools necessary to make sense of the complex problems that they face in the modern world. The subject cultivates an understanding of core issues, fundamental theories and philosophical stances in the social sciences, and explores the way social scientists formulate questions about society that can be addressed with empirical research.
+Together, these courses sharpen critical thinking and encourage students to question the world they inhabit and the futures they might create.
+List of Freshmore subjects
+Term 1
+Innovating with Design & AI 1
+*
+Introduction to Programming
+*
+Calculus
+Sustainability: Science and System Thinking
+Introduction to
+Social Sciences
+/
+Global Humanities
+Term 2
+Innovating with Design & AI 2
+*
+Algorithmic Thinking & Object-Oriented Programming
+*
+Linear Algebra & Multivariable Calculus (E/S)
+Physics Principles and Applications 1
+Introduction to
+Social Sciences
+/
+Global Humanities
+Term 3
+Innovating with Design & AI 3
+*
+Introduction to Machine Learning
+*
+Introduction to Probability and Statistics (E/S)
+Any two electives:
+Design Computation
+Designing Sustainable Energy Solutions
+Freshmore Design Studio
+Introduction to Discrete Mathematics
+Introduction to Healthcare Technology
+Introduction to Human-Centred Design
+Physics Principles and Applications 2
+Qualitative & Quantitative Research Methods
+*6 credits course
+Note: Information correct as of 28 January 2026 and is subject to change.

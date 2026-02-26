@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+numpy
+tqdm
+scikit-learn
+python-dotenv
+boto3
+rouge-score
